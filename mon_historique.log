@@ -1,0 +1,373 @@
+    1  cd/etc/NetworkManager/system-connections
+    2  cd /etc/NetworkManager/system-connections/
+    3  sudo gedit LABO-RESIDENT 
+    4  gsettings set com.canonical.Unity.Launcher launcher-position Left
+    5  gsettings get com.canonical.Unity.Launcher favorites
+    6  ls
+    7  cd Documents
+    8  ls
+    9  cd Wild\ Circus/
+   10  git init
+   11  sudo apt install git
+   12  git init
+   13  sudo apt-get install git
+   14  git init
+   15  ls
+   16  apt get install git
+   17  apt-get install git
+   18  ls
+   19  cd Documents/
+   20  ls
+   21  cd Wild\ Circus/
+   22  git init
+   23  sudo apt-get install git
+   24  ls
+   25  sudo apt-get install git
+   26  sudo apt-get update
+   27  sudo apt-get install git
+   28  ls
+   29  cd Documents/
+   30  ls
+   31  cd Wild\ Circus/
+   32  echo "#wild-circus.github.io" >> README.md
+   33  git init
+   34  git add README.md
+   35  git commit -m "first commit"
+   36  git config --global user.name "Loann"
+   37  git config --global user.email "loann.meignant@hotmail.fr"
+   38  git commit -m "first commit"
+   39  git remote add origin https://github.com/fsacado/wild-circus.github.io.git
+   40  git push -u origin master
+   41  git status
+   42  git add Wild\ Circus.css
+   43  git add Wild\ Circus.html 
+   44  git push -u origin master
+   45  git commit -m "Première modif"
+   46  git push -u origin master
+   47  git status
+   48  git add "Wild Circus.html"
+   49  git push -u origin master
+   50  git commit -m "seconde modif"
+   51  git push -u origin master
+   52  cd ~
+   53  cat >> .gitignore
+   54  git config --global core.excludesfile ~/.gitignore
+   55  ls
+   56  cd Documents/
+   57  ls
+   58  cd PhpStorm-172.3968.35/
+   59  cd ~
+   60  cat >> .gitignore
+   61  man cat
+   62  git config --global core.excludesfile ~/.gitignore
+   63  ll
+   64  ./phpstorm.sh
+   65  ./phsStorm.sh
+   66  ./phpstorm.sh
+   67  cd ~
+   68  ls
+   69  cd Bureau/
+   70  touch .gitignore
+   71  sudo dpkg -i Brackets.Release.1.10.64-bit.deb 
+   72  sudo apt-get update
+   73  sudo apt-get upgrade
+   74  ls
+   75  ls -la
+   76  ls -l
+   77  ls
+   78  cd Téléchargements/
+   79  ls
+   80  ~ cd
+   81  ls
+   82  cd/
+   83  cd/..
+   84  ls -l
+   85  ../
+   86  ls
+   87  ls -l
+   88  cd Documents/
+   89  ls -l
+   90  ls -h
+   91  ls -lh
+   92  cd ..
+   93  ls
+   94  top
+   95  fg
+   96  ls
+   97  cd Bureau/
+   98  cd
+   99  cd Bureau/
+  100  ls
+  101  cd
+  102  cd Documents/
+  103  ls
+  104  cd Projets/
+  105  c
+  106  cd
+  107  cd Documents/
+  108  pwd
+  109  ls -l
+  110  ls -lh
+  111  cd
+  112  man ll
+  113  man -ll
+  114  man ls -ll
+  115  lsusb
+  116  cp console_intro.pdf ~/Téléchargements/
+  117  cp console_intro.pdf ~/Téléchargements/console_outro.pdf
+  118  cp -r Projets/ ~/Téléchargements/
+  119  rm -r ~/Téléchargements/Projets/
+  120  cp Documents/truc.html Téléchargements/
+  121  cd ..
+  122  cd..
+  123  ~
+  124  ls
+  125  cd wilder12/
+  126  ls
+  127  cp -r Documents/Projets/ Téléchargements/
+  128  cp -r Documents/Projets/ Téléchargements/lol
+  129  cp -rv Documents/Projets/ Téléchargements/flew
+  130  ls
+  131  Documents/
+  132  cd Documents/
+  133  ls
+  134  mv Premier\ challenge.php ../Téléchargements/
+  135  cd
+  136  mv Téléchargements/Premier\ challenge.php Documents/
+  137  ls
+  138  cd Documents/
+  139  touch dossier
+  140  rm dossier
+  141  cd
+  142  ls
+  143  mkdir Téléchargements/Loann/Joy/Pauline
+  144  mkdir Téléchargements/Loann
+  145  cd Téléchargements/
+  146  ls
+  147  cd Loann/
+  148  touch video.avi
+  149  cd
+  150  rmdir Téléchargements/Loann
+  151  rm - r Téléchargements/Loann/
+  152  rm -r Téléchargements/Loann
+  153  mkdir -p Téléchargements/Loann/Pauline/Joy
+  154  cd Téléchargements/
+  155  ls
+  156  cd Loann/
+  157  ls
+  158  cd Pauline/
+  159  ls
+  160  cd ../../..
+  161  ls
+  162  cd Téléchargements/
+  163  rmdir Téléchargements/Loann
+  164  rmdir Loann
+  165  rm -r Loann
+  166  cd
+  167  ln -s Téléchargements/ raccourci
+  168  ls 
+  169  cd raccourci
+  170  ls
+  171  cd..
+  172  cd
+  173  ls -l
+  174  ls
+  175  rm raccourci
+  176  ls
+  177  cd Documents/
+  178  ls
+  179  cd Projets/
+  180  ls
+  181  cd Wild\ Circus/
+  182  ls
+  183  more Wild\ Circus.html
+  184  more -s Wild\ Circus.html
+  185  less Wild\ Circus.html
+  186  cd
+  187  ls
+  188  Documents/
+  189  ls
+  190  cd Documents/
+  191  ls
+  192  ls -l
+  193  chmod console_intro.pdf o+x
+  194  chmod o+x console_intro.pdf 
+  195  ls -l
+  196  chmod o-x console_intro.pdf 
+  197  ls -l
+  198  chmod 222 console_intro.pdf 
+  199  ls -l
+  200  chmod 721 console_intro.pdf 
+  201  ls -l
+  202  chmod 664 console_intro.pdf 
+  203  ls -l
+  204  sudo reboot
+  205  cd
+  206  ln -s .local/share/Trash/ Desktop
+  207  cat instructions
+  208  nano cheatsheet.md 
+  209  nano cheatsheet.pdf 
+  210  more hint1
+  211  head -n 20 people
+  212  cd mystery/head -n 20 people
+  213  cd mystery/
+  214  ls
+  215  more people
+  216  cd streets/
+  217  ls
+  218  ls -a
+  219  cd..
+  220  cd ..
+  221  ls
+  222  more hint1
+  223  more hint2
+  224  cd mystery/
+  225  ls
+  226  grep "CLUE" crimescene
+  227  more people
+  228  less people
+  229  ls
+  230  cd streets/
+  231  ls
+  232  less Hart_Place 
+  233  cd ..
+  234  more hint3
+  235  ls
+  236  cd ..
+  237  more hint3
+  238  cd mystery/
+  239  more vehicles 
+  240  head -n 20 vehicles 
+  241  head -n 20 Ann* vehicles 
+  242  locate -n 10 Ann*
+  243  less vehicles 
+  244  cd ..
+  245  less hint4
+  246  ls
+  247  cd mystery/
+  248  grep Annabel people 
+  249  grep Annabel vehicles 
+  250  cd ..
+  251  more hint5
+  252  ls
+  253  cd mystery
+  254  head -n 173 streets/Mattapan_Street | tail -n 1
+  255  ls
+  256  cd interviews/
+  257  ls
+  258  more interview-9437737
+  259  cd ..
+  260  head -n 40 streets/Hart_Place | tail -n 1
+  261  cd interviews/
+  262  more interview-47246024
+  263  cd ..
+  264  head -n 79 streets/Buckingham_Place | tail -n 1
+  265  head -n 176 streets/Haley_Street | tail -n 1
+  266  cd interviews/
+  267  more interview-871877
+  268  cd ..
+  269  head -n 179 streets/Buckingham_Place | tail -n 1
+  270  cd interviews/
+  271  more interview-699607
+  272  cd ../../
+  273  ls
+  274  cd mystery/
+  275  ls
+  276  grep L337*9 vehicles 
+  277  grep Honda vehicles 
+  278  grep Honda,blue vehicles 
+  279  grep L337 vehicles 
+  280  grep -v L337 vehicles 
+  281  grep Honda vehicles | grep L337 vehicles 
+  282  grep Honda vehicles | grep L337 vehicles | grep blue
+  283  grep Honda vehicles | grep L337 vehicles | grep blue vehicles 
+  284  grep Honda vehicles | grep L337 vehicles | grep Blue vehicles 
+  285  cd ..
+  286  ls
+  287  more hint6
+  288  cd mystery/
+  289  grep "Honda" vehicles 
+  290  grep "Honda" vehicles | grep "L337" vehicles | grep "Blue" vehicles 
+  291  head vehicles 
+  292  cd ..
+  293  more hint7
+  294  cd mystery/
+  295  grep -A 5 "L337" vehicles 
+  296  grep -A 5 "L337" vehicles | grep -A "Honda" vehicles 
+  297  grep -A 5 "L337" vehicles | grep -A 5 "Honda" vehicles 
+  298  grep -A 5 "L337" vehicles 
+  299  cd ..
+  300  more hint8
+  301  more hint1
+  302  more hint2
+  303  cd mystery/
+  304  grep "CLUE" crimescene 
+  305  ls
+  306  egrep "L337|Honda|Blue" vehicles 
+  307  cd..
+  308  cd ..
+  309  ls
+  310  more hint7
+  311  man grep
+  312  grep -f "L337|Honda|Blue" vehicles 
+  313  egrep "L337*Honda*Blue" vehicles 
+  314  egrep L337*Honda*Blue vehicles 
+  315  ls
+  316  cd mystery/
+  317  ls
+  318  grep -ie "L337|Honda|Blue" vehicles 
+  319  ls
+  320  cd ..
+  321  more hint4
+  322  more hint5
+  323  more hint6
+  324  cd mystery/
+  325  head -n 20 vehicles 
+  326  grep "L337" vehicles 
+  327  grep "L337|Blue" vehicles 
+  328  egrep "L337|Blue" vehicles 
+  329  grep "L337" vehicles 
+  330  grep -i "L337" vehicles 
+  331  grep -v "L337" vehicles 
+  332  grep "L337" vehicles 
+  333  fgrep "L337|Blue" vehicles 
+  334  grep -f "L337|Blue" vehicles 
+  335  grep -f "L337&Blue" vehicles 
+  336  grep -A 5 "L337" vehicles 
+  337  cd ..
+  338  more hint7
+  339  more hint8
+  340  cd mystery/
+  341  ls
+  342  cd memberships/
+  343  ls
+  344  cd ..
+  345  ls
+  346  grep "CLUE" crimescene 
+  347  cd memberships/
+  348  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Joe"
+  349  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Jeremy""
+
+cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Jeremy"
+
+"
+  350  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Jeremy Bowers"
+  351  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Jaqui"
+  352  cd ..
+  353  ls
+  354  grep -A 5 "L337" vehicles 
+  355  cd ..
+  356  more hint8
+  357  ls
+  358  cd mystery/
+  359  ls
+  360  cd memberships/
+  361  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep -c "Joe Germuska"
+  362  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep -c "Jeremy Bowers"
+  363  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep -c "Jacqui Maher"
+  364  cd ..
+  365  more hint9
+  366  cd mystery/
+  367  grep "Jacqui" people 
+  368  echo Jeremy Bowers
+  369  history > mon_historique.log
